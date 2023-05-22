@@ -1,6 +1,6 @@
 print_sequence <- function(start, end) {
   if (start <= end) {
-    seq_numbers <- seq(start, end)
+    seq_numbers <- start:end
     print(seq_numbers)
   } else {
     print("Invalid input: Start number should be less than or equal to End number.")
