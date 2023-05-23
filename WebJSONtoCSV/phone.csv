@@ -1,0 +1,2 @@
+"products.id","products.title","products.description","products.price","products.discountPercentage","products.rating","products.stock","products.brand","products.category","products.thumbnail","products.images","total","skip","limit"
+1,"iPhone 9","An apple mobile which is nothing like apple",549,12.96,4.69,94,"Apple","smartphones","https://i.dummyjson.com/data/products/1/thumbnail.jpg",
