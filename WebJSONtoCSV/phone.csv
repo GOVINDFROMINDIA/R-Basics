@@ -1,2 +1,3 @@
 "products.id","products.title","products.description","products.price","products.discountPercentage","products.rating","products.stock","products.brand","products.category","products.thumbnail","products.images","total","skip","limit"
-1,"iPhone 9","An apple mobile which is nothing like apple",549,12.96,4.69,94,"Apple","smartphones","https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+1,"iPhone 9","An apple mobile which is nothing like apple",549,12.96,4.69,94,"Apple","smartphones","https://i.dummyjson.com/data/products/1/thumbnail.jpg","","","",""
+2,"Samsung Galaxy S20","A powerful Android smartphone",799,15.00,4.85,128,"Samsung","smartphones","https://i.dummyjson.com/data/products/2/thumbnail.jpg","https://i.dummyjson.com/data/products/2/image1.jpg,https://i.dummyjson.com/data/products/2/image2.jpg,https://i.dummyjson.com/data/products/2/image3.jpg","","",""
