@@ -1,0 +1,58 @@
+{
+  "cities": [
+    {
+      "name": "Mumbai",
+      "temperature": 30.2,
+      "humidity": 70,
+      "conditions": "Sunny"
+    },
+    {
+      "name": "Delhi",
+      "temperature": 35.8,
+      "humidity": 55,
+      "conditions": "Clear"
+    },
+    {
+      "name": "Bengaluru",
+      "temperature": 28.5,
+      "humidity": 80,
+      "conditions": "Rainy"
+    },
+    {
+      "name": "Tokyo",
+      "temperature": 22.1,
+      "humidity": 75,
+      "conditions": "Cloudy"
+    },
+    {
+      "name": "New York",
+      "temperature": 18.9,
+      "humidity": 50,
+      "conditions": "Partly Cloudy"
+    },
+    {
+      "name": "Doha",
+      "temperature": 38.7,
+      "humidity": 30,
+      "conditions": "Hot"
+    },
+    {
+      "name": "Munich",
+      "temperature": 19.6,
+      "humidity": 65,
+      "conditions": "Rainy"
+    },
+    {
+      "name": "Moscow",
+      "temperature": -2.3,
+      "humidity": 85,
+      "conditions": "Snowy"
+    },
+    {
+      "name": "Paris",
+      "temperature": 22.8,
+      "humidity": 60,
+      "conditions": "Partly Cloudy"
+    }
+  ]
+}
